@@ -48,7 +48,7 @@ const Footer = () => {
 
       {/* Bottom Footer Section */}
       <div className="bg-gray-200 py-4 text-center text-xs md:text-sm">
-        <p>&copy; {new Date().getFullYear()} Your Company Name. All Rights Reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Jeetendra Kumar</p>
       </div>
     </footer>
   );
