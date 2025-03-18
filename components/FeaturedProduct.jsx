@@ -6,8 +6,8 @@ const products = [
   {
     id: 1,
     image: assets.girl_with_headphone_image,
-    title: "Unparalleled Sound",
-    description: "Experience crystal-clear audio with premium headphones.",
+    title: "Apple iPhone 16 Pro",
+    description: "The Apple iPhone 16 Pro is expected to be a powerful flagship smartphone.",
   },
   {
     id: 2,
@@ -18,8 +18,8 @@ const products = [
   {
     id: 3,
     image: assets.boy_with_laptop_image,
-    title: "Power in Every Pixel",
-    description: "Shop the latest laptops for work, gaming, and more.",
+    title: "Apple MacBook",
+    description: "The latest Apple MacBook is a powerhouse, featuring a stunning Retina XDR display.",
   },
 ];
 
